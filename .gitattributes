@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+git clone C:\Users\asto2\OneDrive\Documents\GitHub\fav\.gitattributes
+cd fav
+git add .
+git commit -m"Create a favorites.txt file and added a title"
